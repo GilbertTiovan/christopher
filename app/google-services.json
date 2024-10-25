@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "992742537849",
+    "project_id": "utslabmapchristopher",
+    "storage_bucket": "utslabmapchristopher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992742537849:android:e453f6f90455c6f54eb2a8",
+        "android_client_info": {
+          "package_name": "com.example.if570_lab_uts_christopher_00000066460"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXXp4XhiCUsq8IDo6qJ4i9Amn-5hWdzbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992742537849:android:832f86a965bf15d84eb2a8",
+        "android_client_info": {
+          "package_name": "com.example.if570_lab_uts_christopher_66460"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXXp4XhiCUsq8IDo6qJ4i9Amn-5hWdzbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
